@@ -17,9 +17,9 @@ float_logo: false # true, false (default)
 # blog cover
 cover: "/assets/images/cover.jpg"
 
-name: 'Molly Weasley'
-author: 'Molly Weasley'
-author_image: "/assets/images/author.jpg"
+name: 'Rita Samaele'
+author: 'Rita Samaele'
+author_image: "/assets/images/author.png"
 
 paginate: 5
 
