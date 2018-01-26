@@ -1,21 +1,50 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
+# Build settings
+gems:
+  - jemoji
+  - jekyll-paginate
 
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+title: "Mãe Realista"
+description: > # this means to ignore newlines until "email:"
+        Mãe de primeira viagem que tem como hobbies ler e escrever, e um belo
+        dia acordou com vontade de desconstruir e polemizar.
 
-# Build settings
-markdown: kramdown
+email: maerealista.com@gmail.com
+#blog logo
+#logo: "/assets/images/logo.png"
+float_logo: false # true, false (default)
+
+# blog cover
+cover: "/assets/images/cover.jpg"
+
+name: 'Molly Weasley'
+author: 'Molly Weasley'
+author_image: "/assets/images/author.jpg"
+
+paginate: 5
+
+url: "http://www.maerealista.com"
+baseurl: ""
+#used to display twitter cards
+twitter_handle: '@maerealista'
+
+#fill in disqus shortname to use disqus
+#disqus: disqus-shortname
+
+#google_analytics: UA-XXXXX-X
+
+# social icons and sharing options
+social:
+  - icon: twitter
+    url: https://twitter.com/maerealista
+    desc: Follow me on twitter
+    share_url: http://twitter.com/share
+    share_title: ?text=
+    share_link: "&amp;url="
+
+  - icon: facebook
+    url: https://facebook.com/blogmaerealista
+    desc: Connect with me facebook
+    share_url: https://www.facebook.com/sharer.php
+    share_title: ?t=
+    share_link: "&amp;u="
