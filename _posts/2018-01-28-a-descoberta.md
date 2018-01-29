@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 permalink: /post/descoberta
 image: /assets/images/descoberta.jpg
 title: A Descoberta
