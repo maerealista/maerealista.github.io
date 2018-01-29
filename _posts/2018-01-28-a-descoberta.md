@@ -2,7 +2,7 @@
 layout: post
 comments: true
 permalink: /post/descoberta
-image: /assets/images/descoberta.jpg
+image: /assets/images/descoberta.png
 title: A Descoberta
 ---
 
