@@ -9,7 +9,7 @@ description: > # this means to ignore newlines until "email:"
         Mãe de primeira viagem que tem como hobbies ler e escrever, e um belo
         dia acordou com vontade de desconstruir e controverter.
 
-email: maerealista.com@gmail.com
+email: ritasamaele@gmail.com
 #blog logo
 logo: "/assets/images/logo.jpg"
 float_logo: true # true, false (default)
@@ -29,7 +29,7 @@ baseurl: ""
 twitter_handle: '@ritasamaele'
 
 #fill in disqus shortname to use disqus
-#disqus: disqus-shortname
+disqus: maerealista
 
 #google_analytics: UA-XXXXX-X
 
