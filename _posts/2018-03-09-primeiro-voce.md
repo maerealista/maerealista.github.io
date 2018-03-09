@@ -1,3 +1,11 @@
+---
+layout: post
+comments: true
+permalink: /post/primeirovoce
+image: /assets/images/primeirovoce.jpg
+title: Primeiro Você
+---
+
 Desde que resolvi começar o blog tenho lido com mais frequência textos sobre maternidade real. Vejo relatos das verdadeiras 
 complexidades da maternidade: a dificuldade (e por vezes dor) de amamentar, as noites em claro, a dificuldade em entender os 
 diversos choros, a mudança na relação do casal (quando existe um casal), a turbulência sufocante dos primeiros meses, etc. Mas, 
